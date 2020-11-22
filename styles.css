@@ -1,0 +1,22 @@
+body{
+    padding: 25px;
+}
+
+.logos__img{
+    display:flexbox;
+    padding: 30px;
+}
+
+.cont-1{
+    font-family: 'Century';
+    font-size: 65px;
+    color: rgb(4, 78, 78);
+}
+
+.container{
+    padding: 45px;
+}
+
+.container2{
+    padding: 20px;
+}
